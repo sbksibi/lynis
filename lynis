@@ -17,7 +17,7 @@
     # Program information
     PROGRAM_NAME="Lynis"
     PROGRAM_AUTHOR="\033[1;36mSecvitech\033[0m"
-    PROGRAM_AUTHOR_CONTACT="Technical@Secvitech.com"
+    PROGRAM_AUTHOR_CONTACT="operations@Secvitech.com"
     PROGRAM_WEBSITE="https://Secvitech.com/
 "
     # Version details
@@ -34,7 +34,7 @@
     PROGRAM_LICENSE="${PROGRAM_NAME} comes with ABSOLUTELY NO WARRANTY. This is free software, and you are
   welcome to redistribute it under the terms of the GNU General Public License.
   See the LICENSE file for details about using this software. \n  Originally developed by \033[1;31m@Michael Boelen\033[0m - CISOfy (https://cisofy.com) 2007-2024"
-    PROGRAM_EXTRAINFO="For more information, visit https://Secvitech.com or contact Technical@Secvitech.com\n  Modified and Optimized by \033[1;31m@sbksibi\033[0m - \033[1;33mSecurity Researcher\033[0m"
+    PROGRAM_EXTRAINFO="For more information, visit https://Secvitech.com or contact operations@Secvitech.com\n  Modified and Optimized by \033[1;31m@sbksibi\033[0m - \033[1;33mSecurity Researcher\033[0m"
 
     # Version number of report files (when format changes in future)
     REPORT_version_major="1"; REPORT_version_minor="0"
