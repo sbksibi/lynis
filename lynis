@@ -27,14 +27,14 @@
     PROGRAM_VERSION="3.1.4"
 
     # Source, documentation and license
-    PROGRAM_SOURCE="https://github.com/r4vanan/lynis"
+    PROGRAM_SOURCE="https://github.com/sbksibi/lynis"
     PROGRAM_PACKAGE="https://packages.cisofy.com/"
     PROGRAM_DOCUMENTATION="https://cisofy.com/docs/"
     PROGRAM_COPYRIGHT="2007-2024, ${PROGRAM_AUTHOR} - ${PROGRAM_WEBSITE}"
     PROGRAM_LICENSE="${PROGRAM_NAME} comes with ABSOLUTELY NO WARRANTY. This is free software, and you are
   welcome to redistribute it under the terms of the GNU General Public License.
   See the LICENSE file for details about using this software. \n  Originally developed by \033[1;31m@Michael Boelen\033[0m - CISOfy (https://cisofy.com) 2007-2024"
-    PROGRAM_EXTRAINFO="For more information, visit https://Secvitech.com or contact Technical@Secvitech.com\n  Modified and Optimized by \033[1;31m@r4vanan\033[0m - \033[1;33mSecurity Researcher\033[0m"
+    PROGRAM_EXTRAINFO="For more information, visit https://Secvitech.com or contact Technical@Secvitech.com\n  Modified and Optimized by \033[1;31m@sbksibi\033[0m - \033[1;33mSecurity Researcher\033[0m"
 
     # Version number of report files (when format changes in future)
     REPORT_version_major="1"; REPORT_version_minor="0"
